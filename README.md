@@ -1,4 +1,4 @@
-# Products List with Flask Server
+# CRUD Operations with Python Flask Server
 
 I recently completed a lab where I created a product list using a Flask server. The application supports CRUD operations through REST API endpoints.
 
